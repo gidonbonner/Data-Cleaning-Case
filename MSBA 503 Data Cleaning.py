@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 21 00:51:48 2020
 
-@author: jperols
+@author: gidonbonner
 """
 
 #pip install lxml
